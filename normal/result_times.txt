@@ -1,0 +1,346 @@
+n = 3, k = 1, m = 10
+Expect Resample Times = 0.358044
+Real = 0.412
+Time = 0.024s
+n = 3, k = 2, m = 16
+Expect Resample Times = 0.401619
+Real = 0.476
+Time = 0.014s
+n = 4, k = 1, m = 12
+Expect Resample Times = 0.392551
+Real = 0.385
+Time = 0.045s
+n = 4, k = 2, m = 27
+Expect Resample Times = 0.335247
+Real = 0.297
+Time = 0.039s
+n = 4, k = 3, m = 37
+Expect Resample Times = 0.404413
+Real = 0.501
+Time = 0.024s
+n = 5, k = 1, m = 13
+Expect Resample Times = 0.486708
+Real = 0.472
+Time = 0.068s
+n = 5, k = 2, m = 33
+Expect Resample Times = 0.370439
+Real = 0.346
+Time = 0.075s
+n = 5, k = 3, m = 62
+Expect Resample Times = 0.37262
+Real = 0.369
+Time = 0.074s
+n = 5, k = 4, m = 83
+Expect Resample Times = 0.386241
+Real = 0.462
+Time = 0.041s
+n = 6, k = 1, m = 14
+Expect Resample Times = 0.544236
+Real = 0.494
+Time = 0.08s
+n = 6, k = 2, m = 38
+Expect Resample Times = 0.377731
+Real = 0.367
+Time = 0.16s
+n = 6, k = 3, m = 79
+Expect Resample Times = 0.368589
+Real = 0.321
+Time = 0.191s
+n = 6, k = 4, m = 139
+Expect Resample Times = 0.367997
+Real = 0.359
+Time = 0.158s
+n = 6, k = 5, m = 178
+Expect Resample Times = 0.38716
+Real = 0.45
+Time = 0.077s
+n = 7, k = 1, m = 15
+Expect Resample Times = 0.568867
+Real = 0.555
+Time = 0.128s
+n = 7, k = 2, m = 42
+Expect Resample Times = 0.386477
+Real = 0.382
+Time = 0.29s
+n = 7, k = 3, m = 93
+Expect Resample Times = 0.347162
+Real = 0.316
+Time = 0.478s
+n = 7, k = 4, m = 179
+Expect Resample Times = 0.358564
+Real = 0.344
+Time = 0.516s
+n = 7, k = 5, m = 301
+Expect Resample Times = 0.370163
+Real = 0.344
+Time = 0.428s
+n = 7, k = 6, m = 376
+Expect Resample Times = 0.387007
+Real = 0.472
+Time = 0.167s
+n = 8, k = 1, m = 15
+Expect Resample Times = 0.75849
+Real = 0.692
+Time = 0.173s
+n = 8, k = 2, m = 45
+Expect Resample Times = 0.413752
+Real = 0.365
+Time = 0.401s
+n = 8, k = 3, m = 103
+Expect Resample Times = 0.363717
+Real = 0.34
+Time = 0.927s
+n = 8, k = 4, m = 209
+Expect Resample Times = 0.36811
+Real = 0.353
+Time = 1.31s
+n = 8, k = 5, m = 389
+Expect Resample Times = 0.367894
+Real = 0.334
+Time = 1.465s
+n = 8, k = 6, m = 641
+Expect Resample Times = 0.369521
+Real = 0.341
+Time = 0.89s
+n = 8, k = 7, m = 787
+Expect Resample Times = 0.38529
+Real = 0.48
+Time = 0.369s
+n = 9, k = 1, m = 16
+Expect Resample Times = 0.728933
+Real = 0.654
+Time = 0.237s
+n = 9, k = 2, m = 47
+Expect Resample Times = 0.474894
+Real = 0.421
+Time = 0.639s
+n = 9, k = 3, m = 112
+Expect Resample Times = 0.36604
+Real = 0.333
+Time = 1.737s
+n = 9, k = 4, m = 235
+Expect Resample Times = 0.36253
+Real = 0.322
+Time = 3.527s
+n = 9, k = 5, m = 459
+Expect Resample Times = 0.365974
+Real = 0.329
+Time = 5.428s
+n = 9, k = 6, m = 833
+Expect Resample Times = 0.366967
+Real = 0.362
+Time = 11.354s
+n = 9, k = 7, m = 1349
+Expect Resample Times = 0.368587
+Real = 0.347
+Time = 6.017s
+n = 9, k = 8, m = 1636
+Expect Resample Times = 0.383073
+Real = 0.429
+Time = 2.073s
+n = 10, k = 1, m = 16
+Expect Resample Times = 0.911166
+Real = 0.866
+Time = 0.899s
+n = 10, k = 2, m = 49
+Expect Resample Times = 0.519186
+Real = 0.423
+Time = 2.649s
+n = 10, k = 3, m = 119
+Expect Resample Times = 0.388206
+Real = 0.384
+Time = 7.898s
+n = 10, k = 4, m = 257
+Expect Resample Times = 0.3605
+Real = 0.322
+Time = 18.6s
+n = 10, k = 5, m = 517
+Expect Resample Times = 0.366872
+Real = 0.306
+Time = 32.306s
+n = 10, k = 6, m = 987
+Expect Resample Times = 0.365175
+Real = 0.319
+Time = 42.513s
+n = 10, k = 7, m = 1760
+Expect Resample Times = 0.367387
+Real = 0.348
+Time = 27.435s
+n = 10, k = 8, m = 2814
+Expect Resample Times = 0.368775
+Real = 0.297
+Time = 11.512s
+n = 10, k = 9, m = 3381
+Expect Resample Times = 0.381618
+Real = 0.441
+Time = 3.759s
+n = 11, k = 1, m = 17
+Expect Resample Times = 0.833127
+Real = 0.77
+Time = 1.155s
+n = 11, k = 2, m = 51
+Expect Resample Times = 0.54638
+Real = 0.418
+Time = 3.562s
+n = 11, k = 3, m = 126
+Expect Resample Times = 0.388224
+Real = 0.359
+Time = 11.727s
+n = 11, k = 4, m = 276
+Expect Resample Times = 0.361504
+Real = 0.33
+Time = 34.088s
+n = 11, k = 5, m = 567
+Expect Resample Times = 0.367195
+Real = 0.324
+Time = 76.321s
+n = 11, k = 6, m = 1115
+Expect Resample Times = 0.367886
+Real = 0.353
+Time = 117.861s
+n = 11, k = 7, m = 2092
+Expect Resample Times = 0.367066
+Real = 0.294
+Time = 119.919s
+n = 11, k = 8, m = 3686
+Expect Resample Times = 0.367527
+Real = 0.326
+Time = 89.443s
+n = 11, k = 9, m = 5835
+Expect Resample Times = 0.368912
+Real = 0.331
+Time = 35.748s
+n = 11, k = 10, m = 6958
+Expect Resample Times = 0.380453
+Real = 0.444
+Time = 10.611s
+n = 12, k = 1, m = 17
+Expect Resample Times = 0.999752
+Real = 0.885
+Time = 1.496s
+n = 12, k = 2, m = 53
+Expect Resample Times = 0.557619
+Real = 0.44
+Time = 5.223s
+n = 12, k = 3, m = 131
+Expect Resample Times = 0.421692
+Real = 0.406
+Time = 19.399s
+n = 12, k = 4, m = 292
+Expect Resample Times = 0.37287
+Real = 0.359
+Time = 65.222s
+n = 12, k = 5, m = 611
+Expect Resample Times = 0.367252
+Real = 0.335
+Time = 147.579s
+n = 12, k = 6, m = 1227
+Expect Resample Times = 0.366762
+Real = 0.407
+Time = 286.086s
+n = 12, k = 7, m = 2373
+Expect Resample Times = 0.366561
+Real = 0.3
+Time = 356.284s
+n = 12, k = 8, m = 4395
+Expect Resample Times = 0.367387
+Real = 0.376
+Time = 347.151s
+n = 12, k = 9, m = 7669
+Expect Resample Times = 0.367835
+Real = 0.347
+Time = 211.771s
+n = 12, k = 10, m = 12046
+Expect Resample Times = 0.368734
+Real = 0.344
+Time = 77.532s
+n = 12, k = 11, m = 14273
+Expect Resample Times = 0.37946
+Real = 0.472
+Time = 19.148s
+n = 13, k = 1, m = 17
+Expect Resample Times = 1.18153
+Real = 1.044
+Time = 1.07s
+n = 13, k = 2, m = 54
+Expect Resample Times = 0.634225
+Real = 0.583
+Time = 5.313s
+n = 13, k = 3, m = 136
+Expect Resample Times = 0.441089
+Real = 0.408
+Time = 21.738s
+n = 13, k = 4, m = 307
+Expect Resample Times = 0.376332
+Real = 0.323
+Time = 84.241s
+n = 13, k = 5, m = 650
+Expect Resample Times = 0.369027
+Real = 0.341
+Time = 267.633s
+n = 13, k = 6, m = 1326
+Expect Resample Times = 0.365547
+Real = 0.355
+Time = 626.792s
+n = 13, k = 7, m = 2617
+Expect Resample Times = 0.36673
+Real = 0.361
+Time = 1067.66s
+n = 13, k = 8, m = 4998
+Expect Resample Times = 0.367255
+Real = 0.336
+Time = 1242.03s
+n = 13, k = 9, m = 9170
+Expect Resample Times = 0.367604
+Real = 0.359
+Time = 1090.84s
+n = 13, k = 10, m = 15878
+Expect Resample Times = 0.367957
+Real = 0.354
+Time = 566.644s
+n = 13, k = 11, m = 24778
+Expect Resample Times = 0.368675
+Real = 0.349
+Time = 175.267s
+n = 13, k = 12, m = 29203
+Expect Resample Times = 0.378559
+Real = 0.439
+Time = 38.367s
+n = 14, k = 1, m = 18
+Expect Resample Times = 1.03188
+Real = 0.914
+Time = 1.736s
+n = 14, k = 2, m = 56
+Expect Resample Times = 0.617902
+Real = 0.586
+Time = 7.502s
+n = 14, k = 3, m = 141
+Expect Resample Times = 0.44719
+Real = 0.425
+Time = 35.406s
+n = 14, k = 4, m = 320
+Expect Resample Times = 0.387436
+Real = 0.367
+Time = 138.883s
+n = 14, k = 5, m = 686
+Expect Resample Times = 0.366328
+Real = 0.368
+Time = 520.974s
+n = 14, k = 6, m = 1414
+Expect Resample Times = 0.36662
+Real = 0.381
+Time = 867.502s
+n = 14, k = 7, m = 2833
+Expect Resample Times = 0.367419
+Real = 0.381
+Time = 1366.41s
+n = 14, k = 8, m = 5524
+Expect Resample Times = 0.367708
+Real = 0.35
+Time = 1691.99s
+n = 14, k = 9, m = 10452
+Expect Resample Times = 0.367643
+Real = 0.363
+Time = 1773.04s
+n = 14, k = 10, m = 19032
+Expect Resample Times = 0.367844
